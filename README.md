@@ -31,11 +31,11 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeuralCoder&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NeuralCoder18&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeuralCoder&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeuralCoder18&theme=tokyonight" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralCoder&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralCoder18&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -43,10 +43,10 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/NeuralCoder" target="_blank">
+  <a href="https://github.com/NeuralCoder18" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="neuralcipher1918@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
