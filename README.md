@@ -2,9 +2,14 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00bfff;">NeuralCoder</span></h1>
 <h3 align="center">AI/ML Enthusiast | First-Year Student | Learning with Curiosity 🚀</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Learn.+Code.+Build.+Repeat.+🚀;AI+%7C+ML+%7C+Web+Dev+Enthusiast;Always+Curious+%26+Learning+New+Things!"/>
+</p>
+
 ---
 
-### 🧠 About Me  
+## 🧠 About Me
+
 🎓 I'm a first-year student passionate about **Artificial Intelligence** and **Machine Learning**.  
 💡 I love exploring the intersection of **data, code, and creativity**.  
 💻 Skilled in **C, C++, Python, MySQL, HTML, CSS, JavaScript, and DSA**.  
@@ -12,7 +17,7 @@
 
 ---
 
-### ⚙️ Tech Stack  
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -28,37 +33,39 @@
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeuralCoder18&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NeuralCoder18&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeuralCoder18&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeuralCoder18&theme=tokyonight" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralCoder18&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralCoder18&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/NeuralCoder18" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="neuralcipher1918@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="mailto:neuralcipher1918@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Learn.+Code.+Build.+Repeat.+🚀;AI+%7C+ML+%7C+Web+Dev+Enthusiast;Always+Curious+%26+Learning+New+Things!"/>
+✨ "Code is not just instructions, it's creativity in action." ✨
 </p>
+
 
 
 <!--
